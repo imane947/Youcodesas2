@@ -6,10 +6,5 @@ let age = prompt("Quel est votre âge ?");
 let sexe = prompt("Quel est votre sexe (M/F) ?");
 let email = prompt("Quelle est votre adresse e-mail ?");
 
-// 2. Affichage du résultat
-console.log(`Voici vos informations :
-- Nom : ${nom}
-- Prénom : ${prenom}
-- Âge : ${age} ans
-- Sexe : ${sexe}
-- E-mail : ${email}`);
+
+console.log("Vouici vos information" + " " + nom +" " + prenom + " " + age + " "+ sexe + " "+ email);
