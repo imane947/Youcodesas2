@@ -26,7 +26,8 @@ case 4:
     break;
 case 5:
     let F =annee * 365 * 24 * 60 * 60;
-    console.log(`le nombre de secondes :${F}`);
-    break;
+    console.log(`le nobre de secondes :${F}`);
+    console.log(`le nombre  DE secondes :${F}`);
+
 }
 
