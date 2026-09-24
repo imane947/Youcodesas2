@@ -9,4 +9,3 @@ if (revenu >= 30000 && score >= 700 && duree <= 10) {
     console.log("Statut Éligible avec conditions");
 } else {
     console.log("Statut Non éligible");
-}
